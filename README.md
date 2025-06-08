@@ -61,8 +61,11 @@ O projeto está organizado da seguinte forma:
 4.  **Baixe os dados:** Faça o download dos arquivos CSV da plataforma OpenDataSUS e coloque-os na pasta `dados/`.
 5.  **Execute os scripts de análise:** Os scripts podem ser executados individualmente a partir da raiz do projeto.
     # Exemplo de execução
+    ```
+    # Exemplo de execução
     python3 codigos/statistical_analysis.py
-    python3 codigos/visualization_analysis.py     **executa o codigo todo + gera graficos**
+    python3 codigos/visualization_analysis.py
+   
 6.  **Consulte o relatório final:** Para uma visão completa dos resultados e conclusões, consulte o arquivo `docs/relatorio_final.pdf`.
 
 
