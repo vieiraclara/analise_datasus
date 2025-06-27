@@ -10,6 +10,8 @@ O objetivo principal é investigar a qualidade da água e a infraestrutura de tr
 
 Este trabalho foi desenvolvido como projeto final da disciplina de **Estatística e Probabilidade** do curso de Análise e Desenvolvimento de Sistemas do IFSP.
 
+RELATORIO FINAL ESTÁ DENTRO DA PASTA 'docs'
+
 ## Datasets Utilizados
 
 Foram utilizados dois conjuntos de dados do grupo **Vigilância e Meio Ambiente** do DATASUS. Para executar a análise, é necessário baixar os arquivos e colocá-los em uma pasta chamada `dados/` na raiz do projeto.
